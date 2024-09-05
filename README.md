@@ -4,7 +4,7 @@
  src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyNTY4MTgsIm5iZiI6MTcyNTI1NjUxOCwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAyVDA1NTUxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjMGNlYWY0MWNhNWIzYWFjYmExMThlNjE3NTk0NmFiMWQ4ZGY4MDkzNjRiMmFhYjYzMmM0OTJjMjkwODA5OWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NaXDzDQhhT2OPA5ZkV5LO0_on9WuJRezqGoUHmVIKQc">
 
 # 💫 About Me:
-👩‍💻 Final Year CSE Student<br>💻 Python & Java Developer<br>🌐 Web Development Enthusiast<br>🚀 Passionate about building interactive and scalable digital products.<br>🧩 Fun Fact: I can solve a Rubik's Cube faster than I can debug code (most days)!
+👩‍💻 Final Year CSE Student<br>💻 Python & Java Developer<br>🌐 Web Development Enthusiast<br>🚀 Passionate about building interactive and scalable digital products.<br>🧩 Fun Fact: I can solve a Rubik's Cube faster than I can debug code (some days)!
 
 
 ## 🌐 Socials:
